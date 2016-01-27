@@ -22,4 +22,6 @@ Folders
 - doc      - Documentation, license, figures, release
 - src      - Sources and compiler script
 - bin      - binary files
+- tools    - Useful scripts to process output data
 - tutorial - Examples, test and tutorial document
+
